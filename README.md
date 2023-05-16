@@ -1,16 +1,50 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Theo</h1>
+<h3 align="center">A passionate junior frontend developer from France</h3>
+<img
+  align="right"
+  alt="Coding"
+  width="400"
+  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzczZmQzYTQzMDgyZDYzZTE3NmJiMjA1OTYwZjhkNjdlM2JhMWUwYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Q7SKqn3G97xpmfSOvG/giphy.gif"
+/>
+- 🔭 I’m currently working on [Gotham Killer Project](https://github.com/TheoPIERSON/GothamKillerProject) - 🌱 I’m
+currently learning **JavaScript, AngularJS** - 👨‍💻 All of my projects are available at
+[https://github.com/TheoPIERSON](https://github.com/TheoPIERSON) - 📫 How to reach me **Thheopierson@gmail.com**
 
-<!--
-**TheoPIERSON/TheoPIERSON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<p align="left"></p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="css3"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"
+      alt="swift"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
