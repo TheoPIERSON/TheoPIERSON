@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Theo</h1>
-<h3 align="center">A passionate junior frontend developer from France</h3>
+<h1 align="center">Hello there !</h1>
+<h3 align="center">I'm Theo, I'm a passionate junior frontend developer from France</h3>
 <img
   align="right"
   alt="Coding"
   width="400"
   src="https://www.inventateq.com/assets/python/small.gif"
 />
-- 🔭 I’m currently working on [Gotham Killer Project](https://github.com/TheoPIERSON/GothamKillerProject) - 🌱 I’m
-currently learning **JavaScript, AngularJS** - 👨‍💻 All of my projects are available at
-[https://github.com/TheoPIERSON](https://github.com/TheoPIERSON) - 📫 How to reach me **Thheopierson@gmail.com**
+- 🔭 I’m currently working on [Gotham Killer Project](https://github.com/TheoPIERSON/GothamKillerProject) <br> - 🌱 I’m
+currently learning **JavaScript, AngularJS** <br> - 👨‍💻 All of my projects are available at
+[https://github.com/TheoPIERSON](https://github.com/TheoPIERSON) <br> - 📫 How to reach me **Thheopierson@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
