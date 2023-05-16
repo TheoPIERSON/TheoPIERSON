@@ -4,7 +4,7 @@
   align="right"
   alt="Coding"
   width="400"
-  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzczZmQzYTQzMDgyZDYzZTE3NmJiMjA1OTYwZjhkNjdlM2JhMWUwYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Q7SKqn3G97xpmfSOvG/giphy.gif"
+  src="https://www.inventateq.com/assets/python/small.gif"
 />
 - 🔭 I’m currently working on [Gotham Killer Project](https://github.com/TheoPIERSON/GothamKillerProject) - 🌱 I’m
 currently learning **JavaScript, AngularJS** - 👨‍💻 All of my projects are available at
