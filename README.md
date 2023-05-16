@@ -7,8 +7,8 @@
   src="https://www.inventateq.com/assets/python/small.gif"
 />
 - 🔭 I’m currently working on [Gotham Killer Project](https://github.com/TheoPIERSON/GothamKillerProject) <br> - 🌱 I’m
-currently learning **JavaScript, AngularJS** <br> - 👨‍💻 All of my projects are available at
-[https://github.com/TheoPIERSON](https://github.com/TheoPIERSON) <br> - 📫 How to reach me **Thheopierson@gmail.com**
+currently learning <strong>JavaScript, AngularJS</strong> <br> - 👨‍💻 All of my projects are available at
+[https://github.com/TheoPIERSON](https://github.com/TheoPIERSON) <br> - 📫 Reach me here --> <a href="mailto:thheopierson@gmail.com">Thheopierson@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
