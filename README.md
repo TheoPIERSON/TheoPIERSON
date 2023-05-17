@@ -11,7 +11,7 @@ currently learning <strong>JavaScript, AngularJS</strong> <br> - 👨‍💻 All
 [https://github.com/TheoPIERSON](https://github.com/TheoPIERSON) <br> - 📫 Reach me here --> <a href="mailto:thheopierson@gmail.com">Thheopierson@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"></p>
+<p align="left">TheoPIERSON</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
