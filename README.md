@@ -11,7 +11,12 @@ currently learning <strong>JavaScript, AngularJS</strong> <br> - 👨‍💻 All
 [https://github.com/TheoPIERSON](https://github.com/TheoPIERSON) <br> - 📫 Reach me here --> <a href="mailto:thheopierson@gmail.com">Thheopierson@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">TheoPIERSON</p>
+<a href="https://www.linkedin.com/in/theo-pierson-5bab87216/"><img
+      src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png"
+      alt="css3"
+      width="50"
+      height="50"
+    /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
