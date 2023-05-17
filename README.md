@@ -53,3 +53,9 @@ currently learning <strong>JavaScript, AngularJS</strong> <br> - 👨‍💻 All
     />
   </a>
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theopierson&show_icons=true&locale=en&layout=compact" alt="theopierson" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theopierson&show_icons=true&locale=en" alt="theopierson" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theopierson&" alt="theopierson" /></p>
+
