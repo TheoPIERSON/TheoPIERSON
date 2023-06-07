@@ -52,6 +52,9 @@ currently learning <strong>JavaScript, AngularJS</strong> <br> - 👨‍💻 All
       height="40"
     />
   </a>
+  
+  [![Codewars](https://www.codewars.com/users/TheoPIERSON/badges/large)](https://www.codewars.com/users/TheoPIERSON)
+  
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theopierson&show_icons=true&locale=en&layout=compact" alt="theopierson" /></p>
 
