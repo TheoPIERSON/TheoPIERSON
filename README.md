@@ -6,7 +6,7 @@
   width="400"
   src="https://www.inventateq.com/assets/python/small.gif"
 />
-- 🔭 I’m currently working on [Gotham Killer Project](https://github.com/TheoPIERSON/GothamKillerProject) <br> - 🌱 I’m
+- 🔭 I’m currently working on my Book Library (https://github.com/TheoPIERSON/GothamKillerProject) <br> - 🌱 I’m
 currently learning <strong>JavaScript, AngularJS</strong> <br> - 👨‍💻 All of my projects are available at
 [https://github.com/TheoPIERSON](https://github.com/TheoPIERSON) <br> - 📫 Reach me here --> <a href="mailto:thheopierson@gmail.com">Thheopierson@gmail.com</a>
 
