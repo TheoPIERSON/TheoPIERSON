@@ -8,7 +8,7 @@
 />
 - 🔭 I’m currently working on my Book Library (https://github.com/TheoPIERSON/Bibliotheque) <br> - 🌱 I’m
 currently learning <strong>JavaScript, AngularJS</strong> <br> - 👨‍💻 All of my projects are available at
-[https://github.com/TheoPIERSON](https://github.com/TheoPIERSON) <br> - 📫 Reach me here --> <a href="mailto:thheopierson@gmail.com">Thheopierson@gmail.com</a>
+https://github.com/TheoPIERSON <br> - 📫 Reach me here --> <a href="mailto:thheopierson@gmail.com">Thheopierson@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/theo-pierson-5bab87216/"><img
