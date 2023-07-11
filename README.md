@@ -6,7 +6,7 @@
   width="400"
   src="https://www.inventateq.com/assets/python/small.gif"
 />
-- 🔭 I’m currently working on my Book Library (https://github.com/TheoPIERSON/Bibliotheque) <br> - 🌱 I’m
+- 🔭 I’m currently working on Java and database using MySQL (https://github.com/TheoPIERSON/JavaDto) <br> - 🌱 I’m
 currently learning <strong>JavaScript, AngularJS, Java, MySQL</strong> <br> - 👨‍💻 All of my projects are available at
 https://github.com/TheoPIERSON?tab=repositories <br> - 📫 Reach me here --> <a href="mailto:thheopierson@gmail.com">Thheopierson@gmail.com</a>
 
