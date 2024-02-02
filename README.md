@@ -6,8 +6,8 @@
   width="400"
   src="https://www.inventateq.com/assets/python/small.gif"
 />
-- 🔭 I’m currently working on Java and database using MySQL (https://github.com/TheoPIERSON/JavaDto) <br> - 🌱 I’m
-currently learning <strong>JavaScript, AngularJS, Java, MySQL</strong> <br> - 👨‍💻 All of my projects are available at
+- 🔭 I’m currently working on a Java Springboot and Angular project using a PostgreSQL database (https://github.com/TheoPIERSON/Onyx-v3) <br> - 🌱 I’m
+currently learning <strong>JavaScript, AngularJS, Java, PostgreSQL</strong> <br> - 👨‍💻 All of my projects are available at
 https://github.com/TheoPIERSON?tab=repositories <br> - 📫 Reach me here --> <a href="mailto:thheopierson@gmail.com">Thheopierson@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
