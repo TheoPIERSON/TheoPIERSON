@@ -6,8 +6,8 @@
   width="400"
   src="https://www.inventateq.com/assets/python/small.gif"
 />
-- 🔭 I’m currently working on a Java Springboot and Angular project using a PostgreSQL database (https://github.com/TheoPIERSON/Onyx-v3) <br> - 🌱 I’m
-currently learning <strong>TypeScript, AngularJS, Java, PostgreSQL</strong> <br> - 👨‍💻 All of my projects are available at
+- 🔭 I’m working on a Java Springboot and Angular project using a PostgreSQL database (https://github.com/TheoPIERSON/Onyx-v3) <br> - 🌱 I’m
+currently learning <strong>TypeScript, AngularJS, VueJS Java, PostgreSQL</strong> <br> - 👨‍💻 All of my projects are available at
 https://github.com/TheoPIERSON?tab=repositories <br> - 📫 Reach me here --> <a href="mailto:thheopierson@gmail.com">Thheopierson@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
@@ -20,7 +20,7 @@ https://github.com/TheoPIERSON?tab=repositories <br> - 📫 Reach me here --> <a
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
- <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>  
+ <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  
